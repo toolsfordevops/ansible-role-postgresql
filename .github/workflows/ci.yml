@@ -45,6 +45,7 @@ jobs:
           - centos7
           - fedora35
           - ubuntu2004
+          - ubuntu2204
           - ubuntu1804
           - debian10
           - debian11
